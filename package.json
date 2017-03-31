@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "rm -rf build && webpack --colors"
+  },
+  "dependencies": {
+    "webpack": "^2.3.2"
+  }
+}
